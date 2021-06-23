@@ -1,0 +1,9 @@
+{
+    "name": "Solty - Theme",
+    "description": "Minimalism, simple, and clean theme.",
+    "version": "0.2",
+    "author": "T r u e e s#1234",
+    "theme": "Solty.css",
+    "consent": "false",
+    "license": "MIT"
+}
